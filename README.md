@@ -4,6 +4,6 @@ I am a self-taught frontend developer from Brno, Czechia🇨🇿 with over 3 yea
 
 🔭 I’m currently working mostly with JAMstack sites built with Gatsby.js and using Kentico Kontent headless CMS as a backend
 
-🌱 When it comes to learning new skills, I'm currently trying to get more familiar with TypeScript and also with the Vue ecosystem for building SPAs and static sites (Nuxt.js)
+🌱 Currently learning C# with .NET and Azure
 
 📫 You can get in touch with me on tomvorel13@gmail.com
