@@ -4,6 +4,4 @@ I am a self-taught frontend developer from Brno, Czech Republic with over 4 year
 
 🔭 I’m currently working mostly with JAMstack sites built with React (Gatsby.js or Next.js) and using Kontent by Kentico headless CMS as a backend
 
-🌱 Currently learning C# with .NET and Azure
-
 📫 You can get in touch with me on tomvorel13@gmail.com
